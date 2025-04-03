@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @khurrammushtaq55
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me - (khurram_mushtaq55@yahoo.com)  (khurram.dlx@gmail.com)
+"### Hi there, I'm Khurram Mushtaq 👋
 
-<!---
-khurrammushtaq55/khurrammushtaq55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Senior Android Developer with over 8 years of experience specializing in Kotlin, Java, and SDK development for fintech applications. Passionate about building secure and efficient mobile solutions.
+
+🔭 Currently working at Okay AS, focusing on Android SDK development.
+
+🌱 Continuously learning and exploring the latest in Android technologies.
+
+💬 Ask me about Android development, Kotlin, and mobile security.
+
+📫 How to reach me:
+
+Email: khurram_mushtaq55@yahoo.com | khurram.dlx@gmail.com
+
+LinkedIn: linkedin.com/in/khurram27/
+
+🚀 Check out my latest projects below!"
